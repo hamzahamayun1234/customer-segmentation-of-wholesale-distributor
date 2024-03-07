@@ -4,8 +4,6 @@ Background: Company XYZ, a wholesale distributor operating in Portugal, caters t
 
 Question: As a data scientist hired by XYZ, we are tasked with analyzing a dataset comprising 440 clients and their annual spending in standardized monetary units. Each record represents a client and includes information on their region, channel, and annual spending across six product categories.
 
-Resources: Dataset available at: Wholesale Customers Data Set
-
-Executive Summary: Link to Executive Summary
+Resources: Dataset available at: https://github.com/hamzahamayun1234/customer-segmentation-of-wholesale-distributor/blob/main/Working%20Analysis%20-%20Supplementary.xlsx
 
 Technical Document: Link to Technical Document
