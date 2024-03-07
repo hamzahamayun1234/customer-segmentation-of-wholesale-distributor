@@ -6,4 +6,4 @@ Question: As a data scientist hired by XYZ, we are tasked with analyzing a datas
 
 Resources: Dataset available at: https://github.com/hamzahamayun1234/customer-segmentation-of-wholesale-distributor/blob/main/Working%20Analysis%20-%20Supplementary.xlsx
 
-Technical Document: Link to Technical Document
+Technical Document: https://github.com/hamzahamayun1234/customer-segmentation-of-wholesale-distributor/blob/main/Technical%20Document.pdf
